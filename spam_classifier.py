@@ -1,7 +1,3 @@
-# simple spam detector project
-# dataset from UCI: https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
-# file "SMSSpamCollection" should be in the same folder
-
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
