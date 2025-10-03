@@ -31,8 +31,7 @@ After downloading, I put the `SMSSpamCollection` file in the same folder as my c
    ```bash
    pip install pandas scikit-learn matplotlib seaborn
 3. Put the dataset file (SMSSpamCollection) in the same folder as the script.
-4. Run the script: python spam_classifier.py
-
+4. Run the script: 
    ```bash
-   pip install pandas scikit-learn matplotlib seaborn
+   python spam_classifier.py
   
